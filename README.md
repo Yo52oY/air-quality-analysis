@@ -1,3 +1,3 @@
-numpy
-pandas
-notebook
+numpy<br>
+pandas<br>
+notebook<br>
