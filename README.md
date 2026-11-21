@@ -1,1 +1,3 @@
-# air-quality-analysis
+numpy
+pandas
+notebook
